@@ -26,5 +26,12 @@
         ]
       }
     }
+  },
+  "interactions": {
+    "chatbotTutorial": {
+      "service": "Lex",
+      "providerPlugin": "awscloudformation",
+      "build": true
+    }
   }
 }
